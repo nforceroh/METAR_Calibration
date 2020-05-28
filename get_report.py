@@ -21,7 +21,7 @@ except:
 
 BASE_URL = "http://tgftp.nws.noaa.gov/data/observations/metar/stations"
 MQTT_PUB_ROOT = "METAR"
-broker_address = "mqtt.int.nforcer.com"
+broker_address = "mqtt.local"
 stations = ["KMWO"]
 
 
